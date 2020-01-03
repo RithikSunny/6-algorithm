@@ -1,1 +1,1 @@
-# 6-alorithm
+# 6-algorithm
